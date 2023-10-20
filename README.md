@@ -38,7 +38,7 @@ Correct implementation of the mail sending functions (i.e. sending a birthday gr
 Save the recipient data into clientList.txt.
 
 # Prerequisites
-java IDEA- [IntelliJ IDEA ]Java 17SE(https://www.google.com/search?kgmid=/m/03v0mn&hl=en-LK&q=IntelliJ+IDEA&kgs=7722d18efb67c316&shndl=0&source=sh/x/kp/m1/1)
+java IDEA- [IntelliJ IDEA](https://www.google.com/search?kgmid=/m/03v0mn&hl=en-LK&q=IntelliJ+IDEA&kgs=7722d18efb67c316&shndl=0&source=sh/x/kp/m1/1) Java 17SE 
 
 Getting Started
 
