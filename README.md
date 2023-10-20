@@ -1,7 +1,7 @@
 # Email_Client-sem-02-
 Developed an email client using Java language to send birthday wishes automatically .
 
-Project Description
+# Project Description
 
 The email client has two types of recipients, official and personal. Some official recipients are close friends.
 
@@ -37,12 +37,14 @@ Correct implementation of the mail sending functions (i.e. sending a birthday gr
 
 Save the recipient data into clientList.txt.
 
-Prerequisites
-java IDEA- IntelliJ IDEA java 17SE
+# Prerequisites
+java IDEA- [IntelliJ IDEA ]Java 17SE(https://www.google.com/search?kgmid=/m/03v0mn&hl=en-LK&q=IntelliJ+IDEA&kgs=7722d18efb67c316&shndl=0&source=sh/x/kp/m1/1)
 
 Getting Started
-startup code
 
+# startup code
+
+```
 // your index number
 
 //import libraries
@@ -95,3 +97,4 @@ public class Email_Client {
 }
 
 // create more classes needed for the implementation (remove the  public access modifier from classes when you submit your code)
+```
